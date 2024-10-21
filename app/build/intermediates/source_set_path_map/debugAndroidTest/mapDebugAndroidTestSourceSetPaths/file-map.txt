@@ -1,0 +1,5 @@
+com.example.entregamomento2.test.app-core-1.6.1-0 C:\Users\SALOME\.gradle\caches\transforms-4\b4d1d383aff08ff74b1627665de5f1c3\transformed\core-1.6.1\res
+com.example.entregamomento2.test.app-androidTest-1 C:\Users\SALOME\OneDrive\Desktop\Entregable2Android\app\build\generated\res\resValues\androidTest\debug
+com.example.entregamomento2.test.app-mergeDebugAndroidTestResources-2 C:\Users\SALOME\OneDrive\Desktop\Entregable2Android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.entregamomento2.test.app-mergeDebugAndroidTestResources-3 C:\Users\SALOME\OneDrive\Desktop\Entregable2Android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.entregamomento2.test.app-debugAndroidTest-4 C:\Users\SALOME\OneDrive\Desktop\Entregable2Android\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
